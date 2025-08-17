@@ -1,2 +1,2 @@
 number,1,2
-8335058221,<var1>,=1+1
+8335058221,<var1>,<form><input type='text' name='i1' placeholder='i1 1'><input type='text' name='i2' placeholder='i2 2'><button type='submit'>Submit</button></form>
